@@ -1,4 +1,4 @@
-package service;
+package com.siakad.service;
 
 public class EnrollmentServiceTest {
 }
